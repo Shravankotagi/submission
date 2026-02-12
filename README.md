@@ -549,13 +549,3 @@ data-engineer-rag-project/
 
 This project was created as part of an internship assignment.
 
----
-
-**Assignment Status:** ✅ **COMPLETED**
-
-All deliverables have been implemented:
-- ✅ Working FastAPI RAG service
-- ✅ Data pipeline with Spark
-- ✅ Working /ask endpoint with responses
-- ✅ README with architecture and instructions
-- ✅ Screenshots and demo outputs
